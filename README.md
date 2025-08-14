@@ -1,2 +1,2 @@
-# Digital-Image-Processing-Final-Projecct
-Đồ án cuối kỳ môn Nhập môn Xử lý Ảnh Số tại Đại học Tôn Đức Thắng. Sử dụng Python và OpenCV để phát hiện và phân loại biển báo giao thông trong video bằng cách sử dụng lọc màu HSV, các phép toán hình thái, phát hiện đường viền và phân tích tỷ lệ hình dạng-màu sắc.
+# Digital-Image-Processing-Final-Project
+Final project for the Introduction to Digital Image Processing course at Ton Duc Thang University. Using a Python & OpenCV to detect and classify traffic signs in videos using HSV color filtering, morphological operations, contour detection, and shape-color ratio analysis..
